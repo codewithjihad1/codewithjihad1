@@ -6,7 +6,6 @@
 
 ### Hi there 👋, My name is MD. JIHAD HOSSAIN
 #### I'm learning Web Design & Development.
-![I'm learning Web Design & Development.](https://drive.google.com/file/d/1odKR9E06dfkm8FVbxrfQWzcOJQ4-5Ois/view?usp=sharing)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
