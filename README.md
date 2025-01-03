@@ -27,10 +27,13 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdjihad67692023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjihad67692023" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-jihad-hossain-3274a421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-jihad-hossain-3274a421b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdjihad.hossain.75033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdjihad.hossain.75033" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mdjihadhossain1100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdjihadhossain1100/" height="30" width="40" /></a>
+<a href="https://twitter.com/codewithjihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithjihad" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/codewithjihad1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithjihad1/" height="30" width="40" /></a>
+
+<a href="https://www.facebook.com/codewithjihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codewithjihad" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/codewithjihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithjihad/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
