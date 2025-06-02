@@ -1,37 +1,49 @@
-- 👋 Hi, I’m Jihad.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Jihad! 👋
 
-### Hi there 👋, My name is MD. JIHAD HOSSAIN
-#### I'm learning Web Design & Development.
+I'm a passionate **Frontend Developer** who loves building seamless, user-friendly web experiences. I specialize in modern JavaScript frameworks and always stay curious about the latest tools and technologies to level up my craft.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+---
 
-Skills: HTML / CSS / JS
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on this page. 
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-black?style=flat-square&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
+**Backend / Tools:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+---
 
-<!---
-jihad100/jihad100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 What I'm Up To
 
-<h1 align="center">Hi 👋, I'm Professional Web Designer.</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+- 🔭 Currently learning and exploring new web technologies, tools, and frameworks.
+- 🤝 Open to collaborating on frontend and full-stack projects.
+- ⚡ Always eager to contribute to open-source and grow with the community.
 
-- 🔭 I’m currently learning on [Webtricker Web Design & Development](https://webtricker.com/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codewithjihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithjihad" height="30" width="40" /></a>  
-<a href="https://www.linkedin.com/in/codewithjihad1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithjihad1/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/codewithjihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codewithjihad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codewithjihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/codewithjihad/" height="30" width="40" /></a>
-</p>
+## 🏆 Featured Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+[![Garden Community Hub](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub)](https://github.com/codewithjihad1/garden-community-hub)
+
+---
+
+## 📫 Let's Connect
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/codewithjihad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codewithjihad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithjihad1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/codewithjihad)
+
+---
+
+> “Continuous learning is the key to staying ahead in tech. Let’s build something amazing together!”
