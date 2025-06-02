@@ -57,9 +57,7 @@ I specialize in creating seamless, user-friendly web applications using cutting-
 <div align="left">
 
 [![Garden Community Hub](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/garden-community-hub)
-
 [![Tik Tac Toe Game](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=tic-tac-toe-game&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/tic-tac-toe-game.git)
-
 [![Color Generator](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=color-genaretor&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/color-genaretor.git)
 
 </div>
