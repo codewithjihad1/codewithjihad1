@@ -19,18 +19,21 @@ I specialize in creating seamless, user-friendly web applications using cutting-
 <div align="center">
 
 ### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend 
+### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Others Technologies & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,19 +44,21 @@ I specialize in creating seamless, user-friendly web applications using cutting-
 
 ## 🌱 What I'm Currently Doing
 
-- 🔭 **Exploring** new web technologies and modern development patterns
-- 💡 **Building** innovative frontend solutions with React and Next.js
-- 🤝 **Open to** collaborating on exciting frontend and full-stack projects
-- 📚 **Learning** constantly to stay ahead in the ever-evolving tech landscape
-- ⚡ **Contributing** to open-source projects and growing with the developer community
+-   🔭 **Exploring** new web technologies and modern development patterns
+-   💡 **Building** innovative frontend solutions with React and Next.js
+-   🤝 **Open to** collaborating on exciting frontend and full-stack projects
+-   📚 **Learning** constantly to stay ahead in the ever-evolving tech landscape
+-   ⚡ **Contributing** to open-source projects and growing with the developer community
 
 ---
 
 ## 🏆 Featured Project
 
-<div align="center">
+<div align="left">
 
 [![Garden Community Hub](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/garden-community-hub)
+[![Tik Tac Toe Game](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/tic-tac-toe-game.git)
+[![Color Generator](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/color-genaretor.git)
 
 </div>
 
@@ -93,7 +98,7 @@ I specialize in creating seamless, user-friendly web applications using cutting-
 
 ### 💭 Philosophy
 
-*"Continuous learning is the key to staying ahead in tech. Let's build something amazing together!"*
+_"Continuous learning is the key to staying ahead in tech. Let's build something amazing together!"_
 
 <img src="https://komarev.com/ghpvc/?username=codewithjihad1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
