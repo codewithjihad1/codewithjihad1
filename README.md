@@ -1,64 +1,68 @@
 <div align="center">
 
 # Hi there, I'm Jihad! 👋
+### Frontend Developer | React & Next.js Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-
----
-
-### 🚀 Passionate Frontend Developer | Building Modern Web Experiences
-
-I specialize in creating seamless, user-friendly web applications using cutting-edge technologies. Always curious about the latest tools and frameworks to elevate my development skills.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Building+Modern+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm a passionate Frontend Developer specializing in creating seamless, user-friendly web applications using cutting-edge technologies. I love turning complex problems into simple, beautiful designs and bringing ideas to life through code.
+
+---
+
+## 🌱 What I'm Currently Working On
+
+- 🔭 **Exploring** advanced Next.js features and server-side rendering optimization
+- 🚀 **Building** a comprehensive e-commerce platform with React and Node.js
+- 📱 **Developing** responsive web applications using TailwindCSS
+- 🧠 **Learning** TypeScript to enhance code reliability and maintainability
+- 🤝 **Contributing** to open-source projects and community-driven development
+- 💡 **Experimenting** with modern state management solutions like Zustand
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Frontend
-
+### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Others Technologies & Tools
-
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🌱 What I'm Currently Doing
+## 🏆 Featured Projects
 
--   🔭 **Exploring** new web technologies and modern development patterns
--   💡 **Building** innovative frontend solutions with React and Next.js
--   🤝 **Open to** collaborating on exciting frontend and full-stack projects
--   📚 **Learning** constantly to stay ahead in the ever-evolving tech landscape
--   ⚡ **Contributing** to open-source projects and growing with the developer community
-
----
-
-## 🏆 Featured Project
-
-<div align="left">
-
+<div align="center">
+  
+[![Car Rental System](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=car-rental&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/car-rental)
 [![Garden Community Hub](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/garden-community-hub)
-[![Tik Tac Toe Game](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=tic-tac-toe-game&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/tic-tac-toe-game.git)
-[![Color Generator](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=color-genaretor&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/color-genaretor.git)
+[![Tic Tac Toe Game](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=tic-tac-toe-game&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/tic-tac-toe-game)
+[![Color Generator](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=color-genaretor&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/color-genaretor)
 
 </div>
 
@@ -79,16 +83,24 @@ I specialize in creating seamless, user-friendly web applications using cutting-
 
 </div>
 
+## 🏆 Github Trophy
+
+<div align="center">
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=codewithjihad1&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/codewithjihad)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithjihad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithjihad1/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/codewithjihad)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithjihad)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -98,7 +110,7 @@ I specialize in creating seamless, user-friendly web applications using cutting-
 
 ### 💭 Philosophy
 
-_"Continuous learning is the key to staying ahead in tech. Let's build something amazing together!"_
+_"Code is like humor. When you have to explain it, it's bad. Let's write clean, meaningful code that speaks for itself!"_
 
 <img src="https://komarev.com/ghpvc/?username=codewithjihad1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
@@ -108,6 +120,6 @@ _"Continuous learning is the key to staying ahead in tech. Let's build something
 
 <div align="center">
 
-⭐️ **From [codewithjihad1](https://github.com/codewithjihad1)**
+⭐️ **From [Jihad](https://github.com/codewithjihad1) with ❤️**
 
 </div>
