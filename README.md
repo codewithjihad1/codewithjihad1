@@ -61,8 +61,8 @@ I'm a passionate Frontend Developer specializing in creating seamless, user-frie
   
 [![Car Rental System](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=car-rental&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/car-rental)
 [![Garden Community Hub](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=garden-community-hub&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/garden-community-hub)
+[![Color Generator](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=color-generator&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/color-generator)
 [![Tic Tac Toe Game](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=tic-tac-toe-game&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/tic-tac-toe-game)
-[![Color Generator](https://github-readme-stats.vercel.app/api/pin/?username=codewithjihad1&repo=color-genaretor&theme=tokyonight&hide_border=true)](https://github.com/codewithjihad1/color-genaretor)
 
 </div>
 
